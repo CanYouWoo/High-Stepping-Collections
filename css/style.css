@@ -8,6 +8,14 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+button{
+    padding: 10px;
+    font-weight: bold;
+    background-color: crimson;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
 .navbar{
     display: flex;
     align-items: center;
@@ -103,6 +111,18 @@ p{
 .col-3 img{
     width: 100%;
     padding: 50px 20px;
+}
+
+.col-3 p{
+    font-size: 16px;
+    color: #555;
+    text-align: center;
+}
+
+.small-container h2{
+    font-size: 39px;
+    text-align: center;
+    color: #555;
 }
 
 .small-container{
@@ -259,5 +279,16 @@ ul{
     .menu-icon{
         display: block;
         cursor: pointer;
+    }
+}
+
+/*------------media query for less than 600 screen size-------------*/
+
+@media only screen and (max-width: 600px){
+    .row{
+        text-align: center;
+    }
+    .col-2, .col-3, .col-4{
+        flex-basis: 100%;
     }
 }
