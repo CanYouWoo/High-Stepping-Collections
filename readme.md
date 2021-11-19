@@ -15,3 +15,4 @@ The features included for my project are:
 4. Bootstrap CDN was used to showcase a rating system as a means to show 
 
 **Please note this is a shell and pages for the links have not been created.**
+**All PluralSight Courses have been completed, for some reason my Interactive courses are not showing that I've completed them.**
