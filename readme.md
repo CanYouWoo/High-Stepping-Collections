@@ -12,7 +12,7 @@ The features included for my project are:
 
 3. 2 Javascript functions - One that toggles on and off the menu in mobile mode and the other that turns on and of a sizing guide when the button is clicked.
 
-4. Bootstrap CDN was used to showcase a rating system as a means to show what a customer would rate the product.
+4. Bootstrap CDN was used to showcase a rating system as a means to show what a customer would rate the product on a scale of 5 stars.
 
 **Please note this is a shell and pages for the links have not been created.**
 **All PluralSight Courses have been completed, for some reason my Interactive courses are not showing that I've completed them.**
